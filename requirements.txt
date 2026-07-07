@@ -1,0 +1,15 @@
+# 공통 (에이전트 + MCP)
+langchain
+langchain-openai
+langchain-mcp-adapters
+langgraph
+mcp
+
+# MCP 서버 도구들
+httpx
+feedparser
+beautifulsoup4
+geopy
+
+# UI: Chainlit 버전 (app_chainlit.py)
+chainlit

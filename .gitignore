@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 환경 변수 / 비밀 정보
+.env
+.env.*
+
+# Chainlit 런타임 생성 파일
+.files/
+.chainlit/translations/
+
+# macOS
+.DS_Store
+**/.DS_Store
