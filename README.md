@@ -38,3 +38,6 @@ chainlit run app_chainlit.py -w -p 8001
 
 ## 참고
 - 대화 메모리는 `InMemorySaver`
+
+## 샘플 사진
+<img width="1192" height="778" alt="스크린샷 2026-06-29 오후 7 23 26" src="https://github.com/user-attachments/assets/37191762-f75a-4767-b604-4645742e7503" />
